@@ -112,10 +112,10 @@ Part of the Device Code shows read and write from DB:
 -	Auto problem diagnosis
 
 ## Project Team Members 
-Majd Otif 
-Manar Hakami 
-Afnan Matari 
-Manar Thabit
+- Majd Otif 
+- Manar Hakami 
+- Afnan Matari 
+- Manar Thabit
 
 
 
