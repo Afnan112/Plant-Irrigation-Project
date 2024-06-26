@@ -7,19 +7,19 @@ This project is concerned with remote care of housing plants. We have built a pr
 
 ## Required Hardware & Software
 
-1- ESP32:	Is a low-cost, low-power microcontroller with an integrated Wi-Fi and Bluetooth.
-2-	Soil moisture sensor:	Measure the volumetric water content in soil.
-3-	Water pump:	A component is used to move the water and irrigate the plant.
-4-	Relay:	an electrically operated switch that connects or disconnects two circuits
+1. ESP32:	Is a low-cost, low-power microcontroller with an integrated Wi-Fi and Bluetooth.
+2.	Soil moisture sensor:	Measure the volumetric water content in soil.
+3.	Water pump:	A component is used to move the water and irrigate the plant.
+4.	Relay:	an electrically operated switch that connects or disconnects two circuits
 
 ##  Required Software
-1-	Android Studio:	Is the official Integrated Development Environment (IDE) for Android app development.
-2-	Arduino IDE:	Is used to write and upload code from the computer to the motherboard.
-3-	Arduino C:	 Arduino programming language.
-4-	Kotlin:	The programming language used for building Android apps.
-5-	XML:	Use the XML language to create UI layouts of Android apps.
-6-	Firebase: 	Is a set of backend cloud computing services and application development platforms provided by Google.
-7-	TensorFlow Lite:	Is a set of tools that enables on-device machine learning by helping developers run their models on mobile, embedded, and edge devices
+1.	Android Studio:	Is the official Integrated Development Environment (IDE) for Android app development.
+2.	Arduino IDE:	Is used to write and upload code from the computer to the motherboard.
+3.	Arduino C:	 Arduino programming language.
+4.	Kotlin:	The programming language used for building Android apps.
+5.	XML:	Use the XML language to create UI layouts of Android apps.
+6.	Firebase: 	Is a set of backend cloud computing services and application development platforms provided by Google.
+7.	TensorFlow Lite:	Is a set of tools that enables on-device machine learning by helping developers run their models on mobile, embedded, and edge devices
 
 ## Implementation Process
 ### 1.	Training the AI Model
